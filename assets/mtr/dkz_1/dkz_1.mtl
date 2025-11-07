@@ -1,0 +1,10 @@
+# Made in Blockbench 4.10.3
+newmtl m_d7e15fac-8a03-e4ae-4dc7-e66ca0cc3c56
+map_Kd dkz_1_interior.png
+newmtl m_f83af32b-a2ed-047a-cb48-fe38eed3d9de
+map_Kd dkz_1_exterior.png
+newmtl m_4bb4515f-b01e-e428-f3c8-d50242ccab03
+map_Kd sign.png
+newmtl m_c479bfc7-6368-1913-246b-89d328653d57
+map_Kd beijing_32w.png
+newmtl none
